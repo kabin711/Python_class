@@ -26,13 +26,8 @@ print(str1.isalpha())
 print(str1.isalnum())
 print(str1.istitle())
 print(str1.find("T"))
-
-
-
-
-
-
-
+print(len(str1))
+print(str1.count("i"))
 # String format
 print(f" {str1}", int1, f'{str2}')
 
